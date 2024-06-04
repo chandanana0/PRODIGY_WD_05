@@ -1,4 +1,4 @@
-const apiKey = '754cfaaf568971417c23e04be5cedd17'; // Replace with your OpenWeatherMap API key
+const apiKey = '754cfaaf568971417c23e04be5cedd17'; 
 
 function fetchWeather() {
     const location = document.getElementById('location').value;
